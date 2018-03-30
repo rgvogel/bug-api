@@ -34,7 +34,7 @@ private
 
     def user_params
         # whitelist params
-        params.permit(:fname, :lname, :email, :thumbnail, :created_by)
+        params.permit(:fname, :lname, :email, :thumbnail)
     end
 
     def set_user
