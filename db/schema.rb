@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180329224257) do
+ActiveRecord::Schema.define(version: 20180330210028) do
 
 # Could not dump table "bugs" because of following StandardError
 #   Unknown type 'refrences' for column 'user'
